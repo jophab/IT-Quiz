@@ -2,7 +2,7 @@
 ================================
 
 
-Tagline | Company 
+Tagline | Company / Product / Website 
 ------------ | -------------
 A better way to blog|Wordpress
 All your FAIL in one place| Fail Blog
