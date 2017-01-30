@@ -34,17 +34,20 @@ Intel|Gordon E. Moore, Robert Noyce|1968
 Intuit|Scott Cook|1983
 LG|Koo In-hwoi|1958
 Linkedin| Reid Hoffman|2003
+Mashable|Pete Cashmore|2005
 Microsoft|Bill Gates, Paul Allen|1975
 Monster.com|Jeff Taylor|1994
 Motorola|Joseph Galvin,Paul Galvin|1928
 Myspace|Chris Dewolfe, Tom Anderson|2003
 Nimbuzz|Martin Smink, Evert Jaap Lugt|2006
+Ning|Marc Andreessen, Gina Bianchini|2005
 Nintendo|Fusajiro Yamauchi|1889
 Nokia|Fredrik Idestam, Leo Mechelin|1865
 Nvidia|Jen-Hsun Huang|1993
 OLX|Alec Oxenford, Fabrice Grinda|2006
 Oracle|Larry Ellison|1977
 Panasonic|Konosuke Matsushita|1918
+Pinterest|Ben Silbermann, Evan Sharp|2009
 Reddit|Steve Huffman, Alexis Ohanian|2005
 Rediff|Ajit Balakrishnan|1996
 Samsung|Lee Byung-chul|1938
@@ -53,17 +56,21 @@ Scribd|Jared Friedman, Trip Alder|2007
 Seagate|Alan Shugart|1979
 Siemens|Werner von Siemens|1847
 Skype|Niklas Zennstrom,JanusFriis|2003
+Slashdot|Jeff Bates|1997
+Slideshare|Rashmi Sinha|2006
 Snap Deal| Kunal Bahl|2010
 Sony| Masaru Ibuka, Akio Morita|1946
 Stack Overflow|Jeff Atwood,Joel Spolsky|2008
 StumbleUpon|Garrett Camp|2002
 Symantec|Gary Hendrix|1982
 Twitter|Jack Dorsey|2006
+Vimeo|Jake Lodwick, Zach Klein|2004
 VMware|Diane Greene, Mendel Rosenblum|1998
 Wikipedia|Jimmy Wales|2001
 Wipro|Azim H. Premji|1945
 WordPress|Matt Mullenweg|2003
 Yahoo|Jerry Yang, David Filo|1995
+Yelp|Jeremy Stoppelman, Russel Simmons|2004
 YouTube|Steve Chen, Chad Hurley|2006
 
 
