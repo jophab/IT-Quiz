@@ -35,6 +35,7 @@ Intuit|Scott Cook|1983
 LG|Koo In-hwoi|1958
 Linkedin| Reid Hoffman|2003
 Microsoft|Bill Gates, Paul Allen|1975
+Monster.com|Jeff Taylor|1994
 Motorola|Joseph Galvin,Paul Galvin|1928
 Myspace|Chris Dewolfe, Tom Anderson|2003
 Nimbuzz|Martin Smink, Evert Jaap Lugt|2006
