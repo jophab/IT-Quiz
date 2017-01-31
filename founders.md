@@ -15,6 +15,7 @@ DEC|Ken Olsen,Harlan Anderson|1957
 Delicious|Joshua Schachter|2003
 Dell|Michael Dell|1984
 Digg|Jay Adelson, Kevin Rose|2004
+DuckDuckGo|	Gabriel Weinberg|2008
 EA|Trip Hawkins|1982
 eBay|Pierre Morad Omidyar|1995
 EDS|Ross Perot|1962
