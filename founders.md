@@ -8,7 +8,7 @@ Adobe|John Warnock|1982
 Amazon | Jeff Bezos |1994
 AMD|John Carey,Jerry Sanders|1969
 Android|Andy Rubin|2003
-Apple |Steve Jobs|1976
+Apple |Steve Jobs,Steve Wozniak|1976
 Baidu|Robin Li, Eric Xu|2000
 Bitbucket|Jesper Noehr|2008
 Blogger|Evan Willams|1999
