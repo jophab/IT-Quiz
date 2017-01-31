@@ -59,6 +59,7 @@ The Indian Multinational|Videocon
 The Network is the Computer|Sun Microsystems
 The place for people to share things they’re willing to do for $5| Fiverr
 There are some things money can't buy. For everything else, there's MasterCard| MasterCard
+The search engine that doesn't track you|DuckDuckGo
 The Social Media Guide| Mashable
 The Web Information Company|Alexa
 The World's Online Market Place; Buy it, Sell it, Love it|eBay
@@ -72,5 +73,3 @@ Where do you want to go today?; Your Potential Our Passion |Microsoft
 World’s Largest Professional Network|Linkedin
 You’re key to an awesome social community|Ning
 Your Technology Navigator|Digit
-
-
