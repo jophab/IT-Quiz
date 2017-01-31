@@ -9,6 +9,7 @@ Amazon | Jeff Bezos |1994
 AMD|John Carey,Jerry Sanders|1969
 Apple |Steve Jobs|1976
 Baidu|Robin Li, Eric Xu|2000
+Bitbucket|Jesper Noehr|2008
 Blogger|Evan Willams|1999
 Cisco Systems|Len Bosack, Sandy Lerner|1984
 DEC|Ken Olsen,Harlan Anderson|1957
@@ -23,6 +24,7 @@ Ericsson|Lars Magnus Ericsson|1876
 Facebook|Mark Elliot Zuckerberg|2004
 Flickr|Stewart Butterfieldx|2004
 Flipkart|Sachin Bansal, Binny Bansal|2007
+GitHub|Tom Preston-Werner|2008
 Google|Sergey Brin and Larry Page|1998
 HCL|Shiv Nadar|1976
 Hello|Orkut Buyukkokten|2016
@@ -67,6 +69,7 @@ Symantec|Gary Hendrix|1982
 Twitter|Jack Dorsey|2006
 Vimeo|Jake Lodwick, Zach Klein|2004
 VMware|Diane Greene, Mendel Rosenblum|1998
+WhatsApp|Jan Koum|2009
 Wikipedia|Jimmy Wales|2001
 Wipro|Azim H. Premji|1945
 WordPress|Matt Mullenweg|2003
