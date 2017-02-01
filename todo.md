@@ -3,7 +3,6 @@ Hardware
 
 Logos
 
-Father of
 
 First ...
 
