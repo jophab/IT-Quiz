@@ -8,3 +8,5 @@ For Students/people preparing for quiz competitions on Information Technology
 3. [Programming Languaes](/programming_languages.md)
 4. [Android OS](/android.md)
 5. [Books from Famous IT Personalities](/books.md)
+6. [Famous Quotes](/quotes.md)
+7. [Father of   ______](/father_of.md)
