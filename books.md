@@ -5,13 +5,16 @@
 Book | Author 
 ------------ | -------------
 Behind the Cloud|Marc Benioff ( Co-founder of Salesforce )
+Business @ the Speed of Thought|Bill Gates
 Creativity, Inc.|Ed Catmull ( Co-founder of Pixar )
 Delivering Happiness|Tony Hsieh ( CEO Zappos )
 Direct from Dell|Michael Dell
 Hackers|Steven Levy
 How Google Works|Eric Schmidt, Jonathan Rosenberg
+Just for Fun|Linus Torvalds
 Neuromancer|William Gibson
 Only the Paranoid Survive|Andrew Grove ( Co-founder of Intel )
+Passages from the Life of a Philosopher|Charles Babbage
 Rebooting Work|Maynard Webb ( Founder of Webb Investment Network )
 The Age of Spiritual Machines|Ray Kurzweil
 The Chip|T.R. Reid 
