@@ -38,4 +38,6 @@ Sed|Lee E. McMahon|1974
 Simula|Ole-Johan Dahl,Kristen Nygaard|1965
 Smalltalk|Alan Kay1972
 SQL|Donald D. Chamberlin, Raymond F. Boyce|1974
+Visual Basic| Alan Cooper|1991
+XML|Tim Bray|1996
 
