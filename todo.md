@@ -1,6 +1,3 @@
-Books
-
-Quotes
 
 Hardware
 
