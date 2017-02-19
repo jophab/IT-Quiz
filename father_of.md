@@ -16,6 +16,7 @@ Modern Linguistics|Noam Chomsky
 Nanotechnology|Richard Smalley
 Pentium microprocessor|Vinod Dham
 Personal computer|Chuck Peddle
+QWERTY Keyboard|Christopher Latham Sholes
 Robotics|Al-Jazari
 Search engine|Alan Emtage
 Video game industry|Nolan Bushnell	
