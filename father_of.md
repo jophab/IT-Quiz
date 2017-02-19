@@ -19,5 +19,6 @@ Personal computer|Chuck Peddle
 QWERTY Keyboard|Christopher Latham Sholes
 Robotics|Al-Jazari
 Search engine|Alan Emtage
+Super Computer|Seymour Cray
 Video game industry|Nolan Bushnell	
 World Wide Web|Tim Berners-Lee
