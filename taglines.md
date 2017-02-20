@@ -5,13 +5,14 @@
 Tagline | Company / Product / Website 
 ------------ | -------------
 A better way to blog|Wordpress
+A world of free apps on any phone|Snaptu
 All your FAIL in one place| Fail Blog
 Applying Thought|Wipro
 Beauty outside, Beast Inside|Mac Pro
 Be Fearless|Symantec
 Beyond the Obvious|TCS
 Born in Japan Entertaining The World|Sansui
-Broadcast Yourself|Youtube
+Broadcast Yourself ; Don't Read the Comments|Youtube
 Challenge Everything|EA
 Choose Freedom|Toshiba
 Connecting people|Nokia
@@ -26,6 +27,7 @@ Everything is Possible; Invent|HP
 Exceed Your Vision | Epson
 Feeding Your Gadget and Tech Obsessions|Slashgear
 Find out what’s happening right now, with the people and organizations you care about|Twitter
+For those who Do|Lenovo
 Get N or Get Out|Nintendo 64
 Helps you connect and share with the people in your life; | Facebook
 High Performance. Delivered|Accenture
@@ -52,6 +54,7 @@ Real life sharing, rethought for the web|Google+
 Real People. Real reviews|Yelp
 Share your life in photos|Flickr
 Simplicity at work. Better by adobe|Adobe
+The Creators Network ; Simple, beautiful, ad-free |Ello
 The easiest way to blog|Tumblr
 The free encyclopedia that anyone can edit|Wikipedia
 The Front page of the Internet|Reddit

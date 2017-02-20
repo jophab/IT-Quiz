@@ -7,7 +7,8 @@ Company | Founder | Year
 Adobe|John Warnock|1982
 Amazon | Jeff Bezos |1994
 AMD|John Carey,Jerry Sanders|1969
-Apple |Steve Jobs|1976
+Android|Andy Rubin|2003
+Apple |Steve Jobs,Steve Wozniak|1976
 Baidu|Robin Li, Eric Xu|2000
 Bitbucket|Jesper Noehr|2008
 Blogger|Evan Willams|1999
@@ -42,14 +43,18 @@ Microsoft|Bill Gates, Paul Allen|1975
 Monster.com|Jeff Taylor|1994
 Motorola|Joseph Galvin,Paul Galvin|1928
 Myspace|Chris Dewolfe, Tom Anderson|2003
+Napster|Shawn Fanning, Sean Parker|1999
 Nimbuzz|Martin Smink, Evert Jaap Lugt|2006
 Ning|Marc Andreessen, Gina Bianchini|2005
 Nintendo|Fusajiro Yamauchi|1889
 Nokia|Fredrik Idestam, Leo Mechelin|1865
 Nvidia|Jen-Hsun Huang|1993
 OLX|Alec Oxenford, Fabrice Grinda|2006
+OpenAI|Elon Musk|2015
 Oracle|Larry Ellison|1977
 Panasonic|Konosuke Matsushita|1918
+PayPal|Peter Thiel, Yu Pan|1998
+Paytm|Vijay Shekhar Sharma|2010
 Pinterest|Ben Silbermann, Evan Sharp|2009
 Reddit|Steve Huffman, Alexis Ohanian|2005
 Rediff|Ajit Balakrishnan|1996
@@ -63,6 +68,7 @@ Slashdot|Jeff Bates|1997
 Slideshare|Rashmi Sinha|2006
 Snap Deal| Kunal Bahl|2010
 Sony| Masaru Ibuka, Akio Morita|1946
+SpaceX|Elon Musk|2002
 Stack Overflow|Jeff Atwood,Joel Spolsky|2008
 StumbleUpon|Garrett Camp|2002
 Symantec|Gary Hendrix|1982
