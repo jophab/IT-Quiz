@@ -10,3 +10,4 @@ For Students/people preparing for quiz competitions on Information Technology
 5. [Books from Famous IT Personalities](/books.md)
 6. [Famous Quotes](/quotes.md)
 7. [Father of   ______](/father_of.md)
+8. [List of Firsts](/first_in_tech.md)
