@@ -4,6 +4,6 @@ Hardware
 Logos
 
 
-First ...
-
 Personalities
+
+Nick Names
