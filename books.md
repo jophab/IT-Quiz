@@ -17,6 +17,7 @@ Only the Paranoid Survive|Andrew Grove ( Co-founder of Intel )
 Passages from the Life of a Philosopher|Charles Babbage
 Rebooting Work|Maynard Webb ( Founder of Webb Investment Network )
 The Age of Spiritual Machines|Ray Kurzweil
+The Art of Computer Programming|Donald Knuth
 The Chip|T.R. Reid 
 The Hard Thing About Hard Things|Ben Horowitz
 The HP Way|David Packard 
