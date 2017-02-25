@@ -9,6 +9,7 @@
 ##Founders of Programming Languages
 ![Famous Computer Scientists](/imgs/prog.png)
 ![Famous Computer Scientists](/imgs/prog2.png)
+![Famous Computer Scientists](/imgs/prog3.png)
 
 ##Founders/CEOs of Companies 
 ![Famous Computer Scientists](/imgs/per1.png)
