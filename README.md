@@ -11,6 +11,7 @@ For Students/people preparing for quiz competitions on Information Technology
 6. [Famous Quotes](/quotes.md)
 7. [Father of   ______](/father_of.md)
 8. [List of Firsts](/first_in_tech.md) 
-8. [Images of Personalities](/images_of_personalities.md) 
+9. [Images of Personalities](/images_of_personalities.md) 
+10. [Abbreviations](/abbreviation.md)
 
  
