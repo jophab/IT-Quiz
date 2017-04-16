@@ -1,4 +1,4 @@
-##List of Firsts in Tech
+List of Firsts in Tech
 ================================
 
 
