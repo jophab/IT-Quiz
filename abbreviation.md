@@ -1,4 +1,4 @@
-##Abbreviations
+Abbreviations
 ==========================
 
 Abbreviation | Expansion
