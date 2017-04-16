@@ -1,4 +1,4 @@
-#Android Operating System
+Android Operating System
 ================================
 
 Founder: Andy Rubin, Rich Miner
