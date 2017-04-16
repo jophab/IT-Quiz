@@ -1,4 +1,4 @@
-#Founders of Famous Tech Companies/Websites.
+Founders of Famous Tech Companies/Websites.
 ================================
 
 
