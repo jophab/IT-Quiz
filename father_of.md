@@ -8,6 +8,7 @@ Computer|Charles Babbage
 Computer program|Ada Lovelace
 Computer science|Alan Turing,George Boole
 Cybernetics|Norbert Wiener
+Free Software Foundation|Richard Stallman
 Internet|Vint Cerf
 Laptop|Bill Moggridge
 Microprocessor|Marcian Hoff,Masatoshi Shima
