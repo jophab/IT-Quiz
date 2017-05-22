@@ -11,6 +11,7 @@ Delivering Happiness|Tony Hsieh ( CEO Zappos )
 Direct from Dell|Michael Dell
 Hackers|Steven Levy
 How Google Works|Eric Schmidt, Jonathan Rosenberg
+iWoz|Steve Wozniak
 Just for Fun|Linus Torvalds
 Neuromancer|William Gibson
 Only the Paranoid Survive|Andrew Grove ( Co-founder of Intel )
