@@ -1,5 +1,5 @@
 # IT-Quiz
-For Students/people preparing for quiz competitions on Information Technology 
+Prepare for quiz competitions on Information Technology 
 
 ## Index
 
