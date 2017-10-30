@@ -14,4 +14,6 @@ Prepare for quiz competitions on Information Technology
 9. [Images of Personalities](/images_of_personalities.md) 
 10. [Abbreviations](/abbreviation.md)
 
+Feel Free to add more topics
+
  
